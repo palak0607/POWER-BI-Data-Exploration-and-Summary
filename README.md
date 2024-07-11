@@ -1,6 +1,4 @@
-# POWER-BI
-
-𝐓𝐚𝐬𝐤 𝟏 : Data Exploration and Summary
+# POWER-BI  Data Exploration and Summary
 ◽ Objective: Understanding and summarizing key statistics in the dataset.
 
 ◽ 𝐒𝐭𝐞𝐩𝐬 𝐅𝐨𝐥𝐥𝐨𝐰𝐞𝐝:
